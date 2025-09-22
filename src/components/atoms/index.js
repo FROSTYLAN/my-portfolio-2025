@@ -5,4 +5,7 @@ export { default as TechIcon } from './TechIcon/TechIcon';
 export { default as Card } from './Card/Card';
 export { default as ProjectCard } from './ProjectCard/ProjectCard';
 export { default as ExperienceCard } from './ExperienceCard/ExperienceCard';
+export { default as Logo } from './Logo/Logo';
+export { default as NavLink } from './NavLink/NavLink';
+export { default as MobileMenuButton } from './MobileMenuButton/MobileMenuButton';
 export * from './TechIcon/TechIcons';
